@@ -1,0 +1,15 @@
+python.zip
+
+AlexaSmartHomeAPI_Chameleon/*
+AlexaSmartHomeAPI_Chameleon/appdirs.py
+AlexaSmartHomeAPI_Chameleon/pyparsig.py
+AlexaSmartHomeAPI_Chameleon/six.py
+!AlexaSmartHomeAPI_Chameleon/*.py
+!AlexaSmartHomeAPI_Chameleon/*.yml
+!AlexaSmartHomeAPI_Chameleon/*.json
+!AlexaSmartHomeAPI_Chameleon/*.txt
+!AlexaSmartHomeAPI_Chameleon/*.md
+!AlexaSmartHomeAPI_Chameleon/jsonchema
+
+
+

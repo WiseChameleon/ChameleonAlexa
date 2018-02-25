@@ -1,0 +1,22 @@
+
+
+Step 1 from below to setup LWA (Logon With Amazon) as some OAuth provider is required.
+
+https://developer.amazon.com/blogs/alexa/post/Tx4WG410EHXIYQ/five-steps-before-developing-a-smart-home-skill
+
+
+Note the lambda ARN:
+arn:aws:lambda:us-east-1:860940623573:function:AlexaSmartHomeAPI_Chameleon
+
+redirect urls from lambda -> security profile
+
+https://pitangui.amazon.com/api/skill/link/M1UATU39E2FKLA
+https://alexa.amazon.co.jp/api/skill/link/M1UATU39E2FKLA
+https://layla.amazon.com/api/skill/link/M1UATU39E2FKLA
+
+----
+Integrate with adafruit.io:
+*  2 env variable
+* AIO_USER
+* AIO_KEY
+
